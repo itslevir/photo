@@ -44,9 +44,13 @@
 	<h2 class="prose prose-lg text-white">Photography</h2>
 </div>
 
-<main class="container">
+<main class="container{loading ? '-unloaded' : '-loaded'}">
 	{#if loading}
-		<h1>Loading...</h1>
+		<div class="flex h-full w-full items-center justify-center">
+			<div
+				class="loader-animation h-32 w-32 animate-spin rounded-full border-b-4 border-white"
+			></div>
+		</div>
 	{/if}
 	{#each imageList as image}
 		<a
@@ -61,8 +65,16 @@
 
 <style>
 	main {
+		width: 100%;
+		height: 90%;
+	}
+	main.container-loaded {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 		grid-gap: 1rem;
+	}
+
+	.loader-animation {
+		animation: spin 1s ease-out infinite;
 	}
 </style>
