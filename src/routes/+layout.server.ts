@@ -3,7 +3,7 @@ import {
 	ContainerSASPermissions,
 	StorageSharedKeyCredential
 } from '@azure/storage-blob';
-import type { PageServerLoad } from './$types';
+import type { LayoutServerLoad } from './$types';
 import { azure_key } from '$env/static/private';
 
 const account = 'levirphotography';
@@ -24,4 +24,4 @@ export const load = (async () => {
 	const [url, token] = sasURL.split('?');
 
 	return { url, token };
-}) satisfies PageServerLoad;
+}) satisfies LayoutServerLoad;
