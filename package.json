@@ -38,6 +38,7 @@
 	"type": "module",
 	"dependencies": {
 		"@azure/storage-blob": "^12.23.0",
+		"@fontsource/plus-jakarta-sans": "^5.1.0",
 		"dotenv": "^16.4.5"
 	}
 }
