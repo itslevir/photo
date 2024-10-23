@@ -40,6 +40,11 @@
 	});
 </script>
 
+<svelte:head>
+	<title>a collection of images, shot and edited by levi r.</title>
+	<meta name="description" content="the best of levi's photography. based in seattle, edited in 253">
+</svelte:head>
+
 {#if loading}
 	<div class="flex h-full w-full items-center justify-center">
 		<div class="loader-animation h-32 w-32 animate-spin rounded-full border-b-4 border-white"></div>
@@ -77,7 +82,7 @@
 				.replace('/unorganized/edited/unorg/compressed/', '')
 				.replace('/00001', '')}"
 		>
-			<img src={image.src} alt={image.title} />
+			<img src={image.src} alt={image.title} loading="lazy" />
 		</a>
 	{/each}
 </main>

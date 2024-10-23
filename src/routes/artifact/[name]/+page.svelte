@@ -47,6 +47,11 @@
 	};
 </script>
 
+<svelte:head>
+	<title>an image by levi r.</title>
+	<meta name="description" content="an image, shot and edited by levi r.">
+</svelte:head>
+
 <header>
 	<a href="/">go back</a>
 </header>
