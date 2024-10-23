@@ -5,154 +5,161 @@
 			"path": "/unorganized/edited/unorg/compressed/spooky/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "grain", "overly-edited", "dark", "late-night", "trees"]
 		},
 		{
 			"title": "_MG_5728",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5728/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "midday", "friends", "mountains", "landscape", "trees"]
 		},
 		{
 			"title": "_MG_5757",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5757/00001",
 			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["close-up", "trees", "winter", "snow"]
 		},
 		{
 			"title": "_MG_5826",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5826/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "snow"]
 		},
 		{
 			"title": "_MG_5834",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5834/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "snow", "road", "trees"]
 		},
 		{
 			"title": "_MG_5835",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5835/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "snow", "sky", "trees"]
 		},
 		{
 			"title": "_MG_5944",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5944/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "overly-edited", "dark", "trees"]
 		},
 		{
 			"title": "_MG_5948",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5948/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["winter", "overly-edited", "dark", "snow"]
 		},
 		{
 			"title": "_MG_6065",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6065/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["road", "snow", "mountains"]
 		},
 		{
 			"title": "_MG_6081",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6081/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["road", "snow", "mountains", "cars"]
 		},
 		{
 			"title": "_MG_6083",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6083/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
-		},
-		{
-			"title": "_MG_5728",
-			"path": "/unorganized/edited/unorg/compressed/_MG_6136/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
-			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["snow", "trees"]
 		},
 		{
 			"title": "_MG_6152",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6152/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["road", "snow", "mountains", "cars", "building", "sunny"]
 		},
 		{
 			"title": "_MG_6186",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6186/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["coffee"]
 		},
 		{
 			"title": "chipmunk",
 			"path": "/unorganized/edited/unorg/compressed/chipmunk/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["animals", "mountains", "trees"]
 		},
 		{
 			"title": "dam",
 			"path": "/unorganized/edited/unorg/compressed/dam/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["mountains", "building"]
 		},
 		{
 			"title": "falls from the dam",
 			"path": "/unorganized/edited/unorg/compressed/falls+from+the+dam/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["water", "river", "mountains", "best-photos"]
 		},
 		{
 			"title": "lake bay",
 			"path": "/unorganized/edited/unorg/compressed/lake+bay/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["water", "lake", "mountains", "trees"]
 		},
 		{
 			"title": "me",
 			"path": "/unorganized/edited/unorg/compressed/me/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
-		},
-		{
-			"title": "muir snowfield preview",
-			"path": "/unorganized/edited/unorg/compressed/muir+snowfield+preview/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
-			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["portrait", "trees"]
 		},
 		{
 			"title": "no trespassing",
 			"path": "/unorganized/edited/unorg/compressed/no+trespassing/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["building"]
 		},
 		{
-			"title": "oh thank heaven for seven eleven",
-			"path": "/unorganized/edited/unorg/oh-thank-heaven-for-seven-eleven.png",
+			"title": "oh-thank-heaven-for-seven-eleven",
+			"path": "/unorganized/edited/unorg/compressed/oh-thank-heaven-for-seven-eleven/00001",
 			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
 			"raw": false,
-			"audio": ""
+			"audio": "",
+			"tags": ["building", "city"],
+			"capt": "some say mornings are times of regret and frustration. in reality, they're new beginnings and a hope of being a better you than yesterday"
 		}
 	]
 }
