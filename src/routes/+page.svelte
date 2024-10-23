@@ -40,11 +40,6 @@
 	});
 </script>
 
-<div class="flex w-full flex-col items-center justify-center">
-	<h1 class="prose text-white lg:prose-2xl">Levi R.</h1>
-	<h2 class="prose prose-lg text-white">Photography</h2>
-</div>
-
 {#if loading}
 	<div class="flex h-full w-full items-center justify-center">
 		<div class="loader-animation h-32 w-32 animate-spin rounded-full border-b-4 border-white"></div>
