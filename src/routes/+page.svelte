@@ -1,12 +1,13 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import type { PageData } from './$types';
-	import { images } from '$lib/current.json';
+	import { images, tags } from '$lib/current.json';
 
 	export let data: PageData;
 	let loading = true;
 	let imageList: any[] = [];
 	let supportsWebp = false;
+	let menuOpen = false;
 
 	onMount(() => {
 		var img = new Image();
@@ -44,14 +45,37 @@
 	<h2 class="prose prose-lg text-white">Photography</h2>
 </div>
 
+{#if loading}
+	<div class="flex h-full w-full items-center justify-center">
+		<div class="loader-animation h-32 w-32 animate-spin rounded-full border-b-4 border-white"></div>
+	</div>
+{:else}
+	<div class="flex w-full flex-row justify-between">
+		<h3>Filter</h3>
+		<button
+			class="m-2 rounded-full bg-white px-4 py-2 text-black"
+			on:click={() => {
+				menuOpen = !menuOpen;
+			}}
+		>
+			Filters
+		</button>
+	</div>
+
+	<div class="filters-{menuOpen ? 'open' : 'hidden'}">
+		{#each tags as tag}
+			<button
+				class="m-2 rounded-full bg-white px-4 py-2 text-black"
+				on:click={() => {
+					imageList = imageList.filter((image) => image.tags.includes(tag));
+				}}
+			>
+				{tag}
+			</button>
+		{/each}
+	</div>
+{/if}
 <main class="container{loading ? '-unloaded' : '-loaded'}">
-	{#if loading}
-		<div class="flex h-full w-full items-center justify-center">
-			<div
-				class="loader-animation h-32 w-32 animate-spin rounded-full border-b-4 border-white"
-			></div>
-		</div>
-	{/if}
 	{#each imageList as image}
 		<a
 			href="/artifact/{image.path
@@ -72,6 +96,10 @@
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 		grid-gap: 1rem;
+	}
+
+	.filters-hidden {
+		display: none;
 	}
 
 	.loader-animation {
