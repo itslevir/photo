@@ -151,15 +151,6 @@
 			"raw": false,
 			"audio": "",
 			"tags": ["building"]
-		},
-		{
-			"title": "oh-thank-heaven-for-seven-eleven",
-			"path": "/unorganized/edited/unorg/compressed/oh-thank-heaven-for-seven-eleven/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
-			"raw": false,
-			"audio": "",
-			"tags": ["building", "city"],
-			"capt": "some say mornings are times of regret and frustration. in reality, they're new beginnings and a hope of being a better you than yesterday"
 		}
 	]
 }
