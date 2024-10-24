@@ -49,7 +49,7 @@
 
 <svelte:head>
 	<title>an image by levi r.</title>
-	<meta name="description" content="an image, shot and edited by levi r.">
+	<meta name="description" content="an image, shot and edited by levi r." />
 </svelte:head>
 
 <header>
@@ -80,8 +80,8 @@
 				<iframe
 					width="500"
 					height="300"
-					src="https://api.maptiler.com/maps/outdoor-v2/?key=cHhE4n0gLrglUNPZt75s#15.0/{target.geo
-						.latitude}/{target.geo.longitude}"
+					src="https://api.maptiler.com/maps/outdoor-v2/?key=cHhE4n0gLrglUNPZt75s#{target.geo
+						.accuracy}/{target.geo.latitude}/{target.geo.longitude}"
 				></iframe>
 			</div>
 			<div class="details flex flex-col items-center">

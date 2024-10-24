@@ -3,7 +3,7 @@
 		{
 			"title": "spooky",
 			"path": "/unorganized/edited/unorg/compressed/spooky/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.0241107", "longitude": "-121.5697575", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "grain", "overly-edited", "dark", "late-night", "trees"]
@@ -11,7 +11,7 @@
 		{
 			"title": "_MG_5728",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5728/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "45.2401117", "longitude": "111.3390771", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "midday", "friends", "mountains", "landscape", "trees"]
@@ -19,7 +19,7 @@
 		{
 			"title": "_MG_5757",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5757/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["close-up", "trees", "winter", "snow"]
@@ -27,7 +27,7 @@
 		{
 			"title": "_MG_5826",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5826/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "45.2401117", "longitude": "111.3390771", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "snow"]
@@ -35,7 +35,7 @@
 		{
 			"title": "_MG_5834",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5834/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "46.74825", "longitude": "112.3006157", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "snow", "road", "trees"]
@@ -43,7 +43,7 @@
 		{
 			"title": "_MG_5835",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5835/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "46.74825", "longitude": "112.3006157", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "snow", "sky", "trees"]
@@ -51,7 +51,7 @@
 		{
 			"title": "_MG_5944",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5944/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.0241107", "longitude": "-121.5697575", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "overly-edited", "dark", "trees"]
@@ -59,7 +59,7 @@
 		{
 			"title": "_MG_5948",
 			"path": "/unorganized/edited/unorg/compressed/_MG_5948/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.0241107", "longitude": "-121.5697575", "accuracy": "18.59" },
 			"raw": false,
 			"audio": "",
 			"tags": ["winter", "overly-edited", "dark", "snow"]
@@ -67,7 +67,7 @@
 		{
 			"title": "_MG_6065",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6065/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "45.3780081", "longitude": "-122.1048027", "accuracy": "18.74" },
 			"raw": false,
 			"audio": "",
 			"tags": ["road", "snow", "mountains"]
@@ -75,39 +75,23 @@
 		{
 			"title": "_MG_6081",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6081/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "45.30255", "longitude": "-121.744905", "accuracy": "17.98" },
 			"raw": false,
 			"audio": "",
 			"tags": ["road", "snow", "mountains", "cars"]
 		},
 		{
-			"title": "_MG_6083",
-			"path": "/unorganized/edited/unorg/compressed/_MG_6083/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
-			"raw": false,
-			"audio": "",
-			"tags": ["snow", "trees"]
-		},
-		{
 			"title": "_MG_6152",
 			"path": "/unorganized/edited/unorg/compressed/_MG_6152/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "43.8786753", "longitude": "-121.4413526", "accuracy": "" },
 			"raw": false,
 			"audio": "",
 			"tags": ["road", "snow", "mountains", "cars", "building", "sunny"]
 		},
 		{
-			"title": "_MG_6186",
-			"path": "/unorganized/edited/unorg/compressed/_MG_6186/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
-			"raw": false,
-			"audio": "",
-			"tags": ["coffee"]
-		},
-		{
 			"title": "chipmunk",
 			"path": "/unorganized/edited/unorg/compressed/chipmunk/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "46.779925", "longitude": "-121.781799", "accuracy": "17.48" },
 			"raw": false,
 			"audio": "",
 			"tags": ["animals", "mountains", "trees"]
@@ -115,7 +99,7 @@
 		{
 			"title": "dam",
 			"path": "/unorganized/edited/unorg/compressed/dam/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.385356", "longitude": "-123.606339", "accuracy": "17.19" },
 			"raw": false,
 			"audio": "",
 			"tags": ["mountains", "building"]
@@ -123,7 +107,7 @@
 		{
 			"title": "falls from the dam",
 			"path": "/unorganized/edited/unorg/compressed/falls+from+the+dam/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.385356", "longitude": "-123.606339", "accuracy": "17.19" },
 			"raw": false,
 			"audio": "",
 			"tags": ["water", "river", "mountains", "best-photos"]
@@ -131,7 +115,7 @@
 		{
 			"title": "lake bay",
 			"path": "/unorganized/edited/unorg/compressed/lake+bay/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.393365", "longitude": "-123.589068", "accuracy": "15.7" },
 			"raw": false,
 			"audio": "",
 			"tags": ["water", "lake", "mountains", "trees"]
@@ -139,7 +123,7 @@
 		{
 			"title": "me",
 			"path": "/unorganized/edited/unorg/compressed/me/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.385356", "longitude": "-123.606339", "accuracy": "17.19" },
 			"raw": false,
 			"audio": "",
 			"tags": ["portrait", "trees"]
@@ -147,7 +131,7 @@
 		{
 			"title": "no trespassing",
 			"path": "/unorganized/edited/unorg/compressed/no+trespassing/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.385356", "longitude": "-123.606339", "accuracy": "17.19" },
 			"raw": false,
 			"audio": "",
 			"tags": ["building"]
@@ -155,7 +139,7 @@
 		{
 			"title": "sparrow",
 			"path": "/unorganized/edited/unorg/compressed/sparrow/00001",
-			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"geo": { "latitude": "47.808435", "longitude": "-121.535166", "accuracy": "17.27" },
 			"raw": false,
 			"audio": "",
 			"tags": ["animals", "trees"]
@@ -163,7 +147,7 @@
 		{
 			"title": "gardens_1",
 			"path": "/unorganized/edited/unorg/compressed/gardens_1/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "45.518595", "longitude": "-122.708705", "accuracy": "16.24" },
 			"raw": false,
 			"audio": "",
 			"tags": ["flowers"]
@@ -171,7 +155,7 @@
 		{
 			"title": "gardens_2",
 			"path": "/unorganized/edited/unorg/compressed/gardens_2/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "45.518595", "longitude": "-122.708705", "accuracy": "16.24" },
 			"raw": false,
 			"audio": "",
 			"tags": ["flowers"]
@@ -179,7 +163,7 @@
 		{
 			"title": "gardens_3",
 			"path": "/unorganized/edited/unorg/compressed/gardens_3/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "45.518595", "longitude": "-122.708705", "accuracy": "16.24" },
 			"raw": false,
 			"audio": "",
 			"tags": ["flowers", "best-photos"]
@@ -187,7 +171,7 @@
 		{
 			"title": "homeless man on i-5",
 			"path": "/unorganized/edited/unorg/compressed/homeless+man+on+i-5/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "46.321232", "longitude": "-122.910788", "accuracy": "17.43" },
 			"raw": false,
 			"audio": "",
 			"tags": ["people", "portrait"]
@@ -195,7 +179,7 @@
 		{
 			"title": "morning_1",
 			"path": "/unorganized/edited/unorg/compressed/morning_1/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "47.342595", "longitude": "-122.300256", "accuracy": "17.43" },
 			"raw": false,
 			"audio": "",
 			"tags": ["best-photos", "late-night", "dark"]
@@ -203,7 +187,7 @@
 		{
 			"title": "cold_sunny_fall_morning",
 			"path": "/unorganized/edited/unorg/compressed/cold_sunny_fall_morning/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "47.8116111", "longitude": "-120.7255434", "accuracy": "19.19" },
 			"raw": false,
 			"audio": "",
 			"tags": ["trees", "sky", "sunny", "summer"]
@@ -211,7 +195,7 @@
 		{
 			"title": "matthew b's portrait",
 			"path": "/unorganized/edited/unorg/compressed/portrait+of+matt+b/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "47.345133", "longitude": "-122.279347", "accuracy": "18.17" },
 			"raw": false,
 			"audio": "",
 			"tags": ["people", "portrait", "best-photos"]
@@ -219,7 +203,7 @@
 		{
 			"title": "ivan o's portrait",
 			"path": "/unorganized/edited/unorg/compressed/cold_sunny_fall_morning/00001",
-			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"geo": { "latitude": "47.3455996", "longitude": "-122.2789851", "accuracy": "18.96" },
 			"raw": false,
 			"audio": "",
 			"tags": ["people", "portrait", "best-photos"]
