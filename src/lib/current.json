@@ -151,6 +151,78 @@
 			"raw": false,
 			"audio": "",
 			"tags": ["building"]
+		},
+		{
+			"title": "sparrow",
+			"path": "/unorganized/edited/unorg/compressed/sparrow/00001",
+			"geo": { "latitude": "", "longitude": "", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["animals", "trees"]
+		},
+		{
+			"title": "gardens_1",
+			"path": "/unorganized/edited/unorg/compressed/gardens_1/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["flowers"]
+		},
+		{
+			"title": "gardens_2",
+			"path": "/unorganized/edited/unorg/compressed/gardens_2/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["flowers"]
+		},
+		{
+			"title": "gardens_3",
+			"path": "/unorganized/edited/unorg/compressed/gardens_3/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["flowers", "best-photos"]
+		},
+		{
+			"title": "homeless man on i-5",
+			"path": "/unorganized/edited/unorg/compressed/homeless+man+on+i-5/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["people", "portrait"]
+		},
+		{
+			"title": "morning_1",
+			"path": "/unorganized/edited/unorg/compressed/morning_1/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["best-photos", "late-night", "dark"]
+		},
+		{
+			"title": "cold_sunny_fall_morning",
+			"path": "/unorganized/edited/unorg/compressed/cold_sunny_fall_morning/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["trees", "sky", "sunny", "summer"]
+		},
+		{
+			"title": "matthew b's portrait",
+			"path": "/unorganized/edited/unorg/compressed/portrait+of+matt+b/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["people", "portrait", "best-photos"]
+		},
+		{
+			"title": "ivan o's portrait",
+			"path": "/unorganized/edited/unorg/compressed/cold_sunny_fall_morning/00001",
+			"geo": { "latitude": "45.2829208", "longitude": "-111.2533127", "accuracy": "" },
+			"raw": false,
+			"audio": "",
+			"tags": ["people", "portrait", "best-photos"]
 		}
 	],
 	"tags": [
