@@ -5,7 +5,7 @@ export const actions = {
 	default: async ({ request }) => {
 		const data = await request.formData();
 		const url = data.get('url');
-		console.log(url);
+		const title = data.get('title');
 
 		fetch('https://api-us-west-2.coconut.co/v2/jobs', {
 			headers: {
@@ -23,14 +23,14 @@ export const actions = {
 						account: 'levirphotography',
 						access_key: azure_key
 					},
-					path: '/unorganized/edited/unorg/compressed'
+					path: '/unorganized/edited/unorg/compressed/'
 				},
 				outputs: {
 					'png:1300x866': {
-						path: '%05d.png'
+						path: `${title}/%05d.png`
 					},
 					'webp:1300x866': {
-						path: '%05d.webp'
+						path: `${title}/%05d.webp`
 					}
 				},
 				notification: {
