@@ -3,7 +3,10 @@ import type { Actions, PageServerLoad } from './$types';
 
 export const actions = {
 	default: async ({ request }) => {
-		const data = await request.json();
+		const data = await request.formData();
+		const url = data.get('url');
+		console.log(url);
+
 		fetch('https://api-us-west-2.coconut.co/v2/jobs', {
 			headers: {
 				Authorization: `Basic ${btoa('k-06ac0358db26ecfe7369e85f98268654:')}`
@@ -11,7 +14,7 @@ export const actions = {
 			method: 'POST',
 			body: JSON.stringify({
 				input: {
-					url: data.url
+					url: url
 				},
 				storage: {
 					service: 'azure',
